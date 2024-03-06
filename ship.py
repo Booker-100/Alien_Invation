@@ -26,7 +26,7 @@ class Ship:
         self.moving_up = False
         self.moving_down = False
 
-        #飞船速度
+        # 飞船速度
         self.ship_speed = self.settings.ship_speed
 
 
